@@ -1,2 +1,2 @@
-# cpp_codesoft_innernship
-codesoft cpp internship
+# c++_codesoft_innernship
+codesoft C++ internship
